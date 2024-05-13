@@ -1,6 +1,4 @@
-# Project Name
-
-Briefly describe what the project is, the problem it solves, and its key features.
+# TOP-CrossNet-DAO
 
 ## Tech Stack
 
